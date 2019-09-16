@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">活動ウォッチ</string>
+
+    <string name="axisX">X軸:</string>
+    <string name="axisY">Y軸:</string>
+    <string name="axisZ">Z軸:</string>
+    <string name="close">Close App</string>
+    <string name="zero">0</string>
+    <string name="AcclThresh">加速度閾値：</string>
+    <string name="AcclUnit"> m/s^2</string>
+    <string name="NoSensor">加速度センサが利用できません</string>
+</resources>
